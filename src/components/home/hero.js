@@ -26,7 +26,7 @@ const AppHero = () => {
               return (
                   <div className="container-fluid" key={item.key}>
                       <div className="content">
-                      <h1>to deploy website <br/> https://www.youtube.com/watch?v=nxLaOaGqML8&list=PLiUrl-SQRR7LM5cw7azA2H_FZwFx2UgkI&index=15&ab_channel=CodewithBibek</h1>
+                      {/* <h1>to deploy website <br/> https://www.youtube.com/watch?v=nxLaOaGqML8&list=PLiUrl-SQRR7LM5cw7azA2H_FZwFx2UgkI&index=15&ab_channel=CodewithBibek</h1> */}
 
                           <h3>{item.title}</h3>
                           <p>{item.content}</p>
