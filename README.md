@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+npm run deploy for github pages
+https://create-react-app.dev/docs/deployment/
 
 ### `npm start`
 
