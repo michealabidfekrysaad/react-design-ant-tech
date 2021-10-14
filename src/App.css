@@ -51,7 +51,7 @@ title holder
 
 .titleHolder:after {
   transform: translateX(-50%);
-  content: '';
+  content: "";
   background: #1890ff;
   position: absolute;
   bottom: 0;
@@ -119,7 +119,7 @@ header
 
 .header .ant-anchor-link:before,
 .header .ant-anchor-link:after {
-  content: '';
+  content: "";
   background: #1890ff;
   width: 1px;
   position: absolute;
@@ -160,7 +160,7 @@ header
 
 .header .ant-menu li.ant-menu-item:before,
 .header .ant-menu li.ant-menu-item:after {
-  content: '';
+  content: "";
   background: #1890ff;
   width: 1px;
   position: absolute;
@@ -204,7 +204,7 @@ hero
 ---- 
 */
 .heroBlock {
-  background: url('assets/images/bg-hero.jpg') no-repeat;
+  background: url("assets/images/bg-hero.jpg") no-repeat;
   background-position: 50% 100%;
   background-size: cover;
   height: 100vh;
@@ -287,7 +287,7 @@ how it works
 ------------
 */
 .worksBlock {
-  background: url('assets/images/bg-works.jpg') no-repeat;
+  background: url("assets/images/bg-works.jpg") no-repeat;
   background-position: 50% 0;
   background-size: cover;
   background-attachment: fixed;
@@ -296,7 +296,7 @@ how it works
 }
 
 .worksBlock:before {
-  content: '';
+  content: "";
   background: rgba(0, 0, 0, 0.5);
   position: absolute;
   top: 0;
@@ -451,13 +451,15 @@ footer
   font-size: 1.5em;
   padding: 5px;
   color: black;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
-.workLinks>a {
+.workLinks > a {
   color: black;
 }
 /* micho css */
-input, select, textarea {
+input,
+select,
+textarea {
   width: 100%;
   padding: 12px;
   border: 1px solid #ccc;
@@ -472,7 +474,7 @@ form .btn-submit {
   padding: 5px;
 }
 
-button[type=submit] {
+button[type="submit"] {
   background-color: #1890ff;
   color: white;
   padding: 12px 20px;
@@ -481,7 +483,7 @@ button[type=submit] {
   cursor: pointer;
 }
 
-button[type=submit]:hover {
+button[type="submit"]:hover {
   background-color: #00396e;
 }
 .complete-field {
@@ -491,23 +493,22 @@ button[type=submit]:hover {
   font-size: 1.4em;
   display: block;
 }
-.complete-field i { 
-  position: absolute; 
-} 
+.complete-field i {
+  position: absolute;
+}
 
-.icon { 
-  padding: 15px; 
-  color: green; 
-  min-width: 50px; 
-  text-align: center; 
-} 
+.icon {
+  padding: 24px 5px;
+  color: #1a8ffc;
+  min-width: 50px;
+  text-align: center;
+}
 .error {
   position: absolute;
   color: red;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  letter-spacing: .1em;
+  letter-spacing: 0.1em;
 }
-
 
 /* 
 responsive
@@ -527,7 +528,7 @@ responsive
   .mobileVisible {
     display: block;
   }
-  
+
   .mobileHidden {
     display: none;
   }
