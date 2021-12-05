@@ -12,7 +12,6 @@ const onSubmit = (values, onSubmitProps) => {
   console.log(values);
   onSubmitProps.resetForm();
 };
-
 const validationSchema = Yup.object({
   name: Yup.string()
     .required("Required")
@@ -76,7 +75,7 @@ const AppContact = () => {
             <label htmlFor="subject">Subject</label>
             <i className="fas fa-check fa-lg icon"></i>
             <input
-            className={formik.errors.subject && formik.touched.subject? 'border-red': ''}
+              // className={formik.errors.subject && formik.touched.subject? 'border-red': ''}
               type="text"
               id="subject"
               name="subject"
@@ -106,7 +105,7 @@ const AppContact = () => {
             ) : null}
           </div>
           <div className="btn-submit">
-            <button type="submit" disabled={ !formik.isValid || formik.isSubmitting}>
+            <button type="submit" disabled={true}>
               <i className="fas fa-reply"></i>&nbsp;&nbsp;Contact
             </button>
           </div>
