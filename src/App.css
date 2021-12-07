@@ -488,6 +488,7 @@ button[type="submit"]:hover {
 }
 .complete-field {
   margin-bottom: 30px;
+  position: relative;
 }
 .complete-field label {
   font-size: 1.4em;
@@ -495,10 +496,11 @@ button[type="submit"]:hover {
 }
 .complete-field i {
   position: absolute;
+  top: 60%;
 }
 
 .icon {
-  padding: 14px 5px;
+  /* padding: 14px 5px; */
   color: #1a8ffc;
   min-width: 50px;
   text-align: center;
