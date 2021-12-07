@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-design-ant-tech/static/css/main.84524de3.chunk.css",
+    "main.js": "/react-design-ant-tech/static/js/main.0734936c.chunk.js",
+    "main.js.map": "/react-design-ant-tech/static/js/main.0734936c.chunk.js.map",
+    "runtime-main.js": "/react-design-ant-tech/static/js/runtime-main.a2936ac7.js",
+    "runtime-main.js.map": "/react-design-ant-tech/static/js/runtime-main.a2936ac7.js.map",
+    "static/css/2.463a37bc.chunk.css": "/react-design-ant-tech/static/css/2.463a37bc.chunk.css",
+    "static/js/2.bf760238.chunk.js": "/react-design-ant-tech/static/js/2.bf760238.chunk.js",
+    "static/js/2.bf760238.chunk.js.map": "/react-design-ant-tech/static/js/2.bf760238.chunk.js.map",
+    "static/js/3.d197a038.chunk.js": "/react-design-ant-tech/static/js/3.d197a038.chunk.js",
+    "static/js/3.d197a038.chunk.js.map": "/react-design-ant-tech/static/js/3.d197a038.chunk.js.map",
+    "index.html": "/react-design-ant-tech/index.html",
+    "static/css/2.463a37bc.chunk.css.map": "/react-design-ant-tech/static/css/2.463a37bc.chunk.css.map",
+    "static/css/main.84524de3.chunk.css.map": "/react-design-ant-tech/static/css/main.84524de3.chunk.css.map",
+    "static/js/2.bf760238.chunk.js.LICENSE.txt": "/react-design-ant-tech/static/js/2.bf760238.chunk.js.LICENSE.txt",
+    "static/media/advanced-option.84c7d069.jpg": "/react-design-ant-tech/static/media/advanced-option.84c7d069.jpg",
+    "static/media/App.css": "/react-design-ant-tech/static/media/bg-works.abd66d06.jpg",
+    "static/media/clean-design.728069da.jpg": "/react-design-ant-tech/static/media/clean-design.728069da.jpg",
+    "static/media/easy-customise.d4fe2213.jpg": "/react-design-ant-tech/static/media/easy-customise.d4fe2213.jpg",
+    "static/media/great-support.13341f4e.jpg": "/react-design-ant-tech/static/media/great-support.13341f4e.jpg",
+    "static/media/modern-design.e2114f5b.jpg": "/react-design-ant-tech/static/media/modern-design.e2114f5b.jpg",
+    "static/media/unlimited-features.a0b8acf7.jpg": "/react-design-ant-tech/static/media/unlimited-features.a0b8acf7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2936ac7.js",
+    "static/css/2.463a37bc.chunk.css",
+    "static/js/2.bf760238.chunk.js",
+    "static/css/main.84524de3.chunk.css",
+    "static/js/main.0734936c.chunk.js"
+  ]
+}
